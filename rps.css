@@ -1,0 +1,47 @@
+#katawan{
+    background-image: url("./assets/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#pildset{
+    border: 3.5px solid burlywood;
+    background-color: saddlebrown;
+    width: 50%;
+    margin: auto;
+}
+
+#titulo{
+    color: white;
+    text-align: center;
+    font-size: 21.5px;
+}
+
+#one {
+    border: 1.5px solid white;
+    height: 20%;
+    width: 20%;
+    padding: 2.5px;
+    transform: scaleX(-1);
+}
+
+#two {
+    border: 1.5px solid white;
+    height: 20%;
+    width: 20%;
+    padding: 2.5px;
+    margin-left: 455px;
+}
+ 
+.pindutan{
+    display: block;
+    margin:0 auto;
+    border: 1.5px solid white;
+    background-color: burlywood;
+    color: black;
+    font-size: 15px;
+    width: 10%;
+    padding: 5px;    
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
